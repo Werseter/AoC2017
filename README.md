@@ -1,0 +1,6 @@
+[Advent of Code 2017](http://adventofcode.com) solutions by Werseter
+========================
+
+| Day | Name                                           |      Solutions      |                   Puzzle                    |
+|:---:|:-----------------------------------------------|:-------------------:|:-------------------------------------------:|
+| 01  | Inverse Captcha                                | [Link](/Day%2001)   | [Link](http://adventofcode.com/2017/day/1)  |
