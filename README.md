@@ -8,3 +8,4 @@
 | 03  | Spiral Memory                                  | [Link](/Day%2003)   | [Link](http://adventofcode.com/2017/day/3)  |
 | 04  | High-Entropy Passphrases                       | [Link](/Day%2004)   | [Link](http://adventofcode.com/2017/day/4)  |
 | 05  | A Maze of Twisty Trampolines, All Alike        | [Link](/Day%2005)   | [Link](http://adventofcode.com/2017/day/5)  |
+| 06  | Memory Reallocation                            | [Link](/Day%2006)   | [Link](http://adventofcode.com/2017/day/6)  |
