@@ -87,6 +87,8 @@ int main(void) {
         if(p == q)
             q = (p -> root -> leafs)[1];
         std::cout << "The weight of the block " << p -> name << " would have to be " << p -> weight - (p -> totalWeight - q -> totalWeight) << std::endl;
+        for(Node* x : queue)
+            delete x;
         return 0;
     }
     else {

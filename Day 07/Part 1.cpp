@@ -57,6 +57,8 @@ int main(void) {
         }
         for(p = *(queue.begin()); p -> root != nullptr; p = p -> root);
         std::cout << "The name of the bottom program is " << p -> name << std::endl;
+        for(Node* x : queue)
+            delete x;
         return 0;
     }
     else {
