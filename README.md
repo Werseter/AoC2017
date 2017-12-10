@@ -12,3 +12,4 @@
 | 07  | Recursive Circus                               | [Link](/Day%2007)   | [Link](http://adventofcode.com/2017/day/7)  |
 | 08  | I Heard You Like Registers                     | [Link](/Day%2008)   | [Link](http://adventofcode.com/2017/day/8)  |
 | 09  | Stream Processing                              | [Link](/Day%2009)   | [Link](http://adventofcode.com/2017/day/9)  |
+| 10  | Knot Hash                                      | [Link](/Day%2010)   | [Link](http://adventofcode.com/2017/day/10) |
