@@ -13,3 +13,4 @@
 | 08  | I Heard You Like Registers                     | [Link](/Day%2008)   | [Link](http://adventofcode.com/2017/day/8)  |
 | 09  | Stream Processing                              | [Link](/Day%2009)   | [Link](http://adventofcode.com/2017/day/9)  |
 | 10  | Knot Hash                                      | [Link](/Day%2010)   | [Link](http://adventofcode.com/2017/day/10) |
+| 11  | Hex Ed                                         | [Link](/Day%2011)   | [Link](http://adventofcode.com/2017/day/11) |
